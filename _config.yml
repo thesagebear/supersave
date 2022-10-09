@@ -21,7 +21,8 @@
 title: Supersave
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Supersave TODO
+  Supersave, we find the best deals across the UK, just for you!
+logo: /assets/supersave100.png
 baseurl: /supersave # the subpath of your site, e.g. /blog
 url: "https://thesagebear.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb

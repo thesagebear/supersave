@@ -5,4 +5,10 @@ google_fonts:
 
 navigation_pages:
   - about.md
-  - deals.md
+  - deals.m
+  
+t:
+  posts: "Current Hot Deals"
+  results_found: "Hot Deal(s) found"
+  search_placeholder_text: "Enter deal search term..."
+  copyright: "Supersave."
