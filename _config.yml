@@ -52,3 +52,6 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+search: true
+paginate: 5  # amount of posts to show per page
+paginate_path: /page:num/
