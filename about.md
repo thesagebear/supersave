@@ -1,7 +1,9 @@
 ---
 layout: page
-title: Deals
-permalink: /deals/
+title: About
+permalink: /about/
 ---
 
-All Supersave Deals
+About Supersave Deals
+
+We will bring your the UKs best deals.

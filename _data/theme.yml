@@ -5,7 +5,8 @@ google_fonts:
 
 navigation_pages:
   - about.md
-  - deals.m
+  - categories.md
+  - deals.md
   
 t:
   posts: "Current Hot Deals"
