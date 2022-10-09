@@ -33,6 +33,9 @@ url: "https://thesagebear.github.io" # the base hostname & protocol for your sit
 remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -56,3 +59,5 @@ plugins:
 search: true
 paginate: 5  # amount of posts to show per page
 paginate_path: /page:num/
+author:
+  name: sagebear
