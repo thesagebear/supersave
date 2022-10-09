@@ -9,6 +9,7 @@ navigation_pages:
   - categories.md
   - deals.md
   - tags.md
+  - privacy.md
   
 t:
   posts: "Current Hot Deals"
@@ -16,4 +17,3 @@ t:
   search_placeholder_text: "Enter deal search term..."
   copyright: "Supersave."
 
-  
