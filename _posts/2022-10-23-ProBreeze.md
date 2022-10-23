@@ -7,7 +7,9 @@ tags:
   - home
 image: /assets/images/7191ihGr7oL._AC_SL1500_.jpg
 ---
-Pro Breeze 12L/Day Dehumidifier with Digital Humidity Display, Sleep Mode, Continuous Drainage
+Pro Breeze
+
+12L/Day Dehumidifier with Digital Humidity Display, Sleep Mode, Continuous Drainage
 and 24 Hour Timer - Ideal for Damp, Condensation and Laundry Drying
 
 Was £139.99, now £118.99.
