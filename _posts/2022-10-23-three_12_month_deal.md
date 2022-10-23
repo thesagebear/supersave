@@ -5,7 +5,6 @@ categories:
   - Three
 tags:
   - phones
-alt_title: Horizon Forbidden West: Tallneck Set for Adults
 image: /assets/images/5G-three.webp
 ---
 £15pm/12m (£10pm after cashback) [Three 100GB data, Unlimited min/text](https://www.fonehouse.co.uk/best-sim-only-deals)
