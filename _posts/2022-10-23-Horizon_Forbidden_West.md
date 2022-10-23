@@ -2,10 +2,10 @@
 title: "Horizon Forbidden West: Tallneck Set for Adults"
 excerpt_separator: "<!--more-->"
 categories:
-  - Amazon
-  - household
+  - Very
+  - Lego
 tags:
-  - cleaning
+  - toys
 alt_title: Horizon Forbidden West: Tallneck Set for Adults
 image: /assets/images/U4DKX_SQ1_0000000099_N_A_SLf.jpeg
 ---
