@@ -10,6 +10,7 @@ navigation_pages:
   - deals.md
   - tags.md
   - privacy.md
+  - cookie-policy.md
   
 t:
   posts: "Current Hot Deals"
