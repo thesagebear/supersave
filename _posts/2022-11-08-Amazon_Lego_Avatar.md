@@ -10,6 +10,6 @@ tags:
 Animal Figure and Pandora Scene, Festive Gift for Kids
 Was £39.99, now £28
 
-<img src="/assets/images/92114.jpg" alt="cordless jigsaw from DeWalt" class="align-left">
+<img src="/assets/images/avatar.jpg" alt="LEGO 75571 Avatar" class="align-left">
 
 <!--more-->
