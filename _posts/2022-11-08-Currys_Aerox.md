@@ -11,7 +11,5 @@ The SteelSeeries [Aerox 3 RGB Optical Gaming Mouse](https://www.currys.co.uk/pr
 case is made of tough ABS plastic, bringing the weight down to just 57 g. Don&#39;t worry about the
 holes though, it&#39;s water and dust resistant.
 Was £56.99, now £34.99
-
-<img src="/assets/images/mouse.jpeg" alt="STEELSERIES Aerox 3 RGB Optical Gaming Mouse" class="align-left">
-
 <!--more-->
+<img src="/assets/images/mouse.jpeg" alt="STEELSERIES Aerox 3 RGB Optical Gaming Mouse" class="align-left">
