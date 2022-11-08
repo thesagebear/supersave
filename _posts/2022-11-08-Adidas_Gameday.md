@@ -13,7 +13,7 @@ A [SLIM-FITTING JACKET](https://www.adidas.co.uk/designed-for-gameday-full-zip-j
 You&#39;re in the zone. Nothing needs to interfere with that. And if you&#39;re still getting there, this adidas
 jacket helps. 
 Was £75, now £45
-<img src="/assets/images/92114.jpg" alt="cordless jigsaw from DeWalt" class="align-left">
+<img src="/assets/images/adidas.webp" alt="GAMEDAY FULL-ZIP JACKET" class="align-left">
 Zip it up, toss up the hood and turn into yourself. The moments before the game are
 just as important as the moments during it, and this jacket honours that completely.
 
