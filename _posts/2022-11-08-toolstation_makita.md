@@ -6,7 +6,6 @@ categories:
   - home
 tags:
   - diy
-image: /assets/images/92114-5.jpg
 ---
 Was £249.98, now £189.98
 Drilling into wood, metal or concrete? With fine hammer and driver drill capabilities, the [Makita
