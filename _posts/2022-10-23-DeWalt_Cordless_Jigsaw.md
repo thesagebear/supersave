@@ -5,7 +5,7 @@ categories:
   - toolstation
   - home
 tags:
-  - fiy
+  - diy
 image: /assets/images/92114-5.jpg
 ---
 Was £139.98, now £99.98 [DeWalt DCS331N-XJ 18V XR Cordless Jigsaw Body Only](https://www.toolstation.com/dewalt-dcs331n-xj-18v-xr-cordless-jigsaw/p92114)
